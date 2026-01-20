@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8828238c-257a-4644-b044-0f4af066ceae" name="Changes" comment="lec1 singllinkedList1">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main1.java" beforeDir="false" />
+    <list default="true" id="8828238c-257a-4644-b044-0f4af066ceae" name="Changes" comment="v1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singlylinkedlist/Singlylinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singlylinkedlist/Singlylinkedlist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/maram2236moad/Labs.git",
-    "accountId": "6949ebb9-59de-461d-adaf-78b70f877277"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maram2236moad&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/maram2236moad/Labs.git&quot;,
+    &quot;accountId&quot;: &quot;6949ebb9-59de-461d-adaf-78b70f877277&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -90,7 +93,23 @@
       <option name="project" value="LOCAL؜" />
       <updated>1768285841046</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL؜-٠٠٠٠٥" summary="v1">
+      <option name="closed" value="true" />
+      <created>1768814166906</created>
+      <option name="number" value="٠٠٠٠٥" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٥" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1768814166906</updated>
+    </task>
+    <task id="LOCAL؜-٠٠٠٠٦" summary="v1">
+      <option name="closed" value="true" />
+      <created>1768814181183</created>
+      <option name="number" value="٠٠٠٠٦" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٦" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1768814181183</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -98,6 +117,7 @@
     <MESSAGE value="lec1 linkedList" />
     <MESSAGE value="lec1  DoublylinkedList1" />
     <MESSAGE value="lec1 singllinkedList1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lec1 singllinkedList1" />
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
 </project>
