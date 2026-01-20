@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8828238c-257a-4644-b044-0f4af066ceae" name="Changes" comment="v1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singlylinkedlist/Singlylinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singlylinkedlist/Singlylinkedlist.java" afterDir="false" />
-    </list>
+    <list default="true" id="8828238c-257a-4644-b044-0f4af066ceae" name="Changes" comment="v1 array" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +106,15 @@
       <option name="project" value="LOCAL؜" />
       <updated>1768814181183</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL؜-٠٠٠٠٧" summary="v1 array">
+      <option name="closed" value="true" />
+      <created>1768923639196</created>
+      <option name="number" value="٠٠٠٠٧" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٧" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1768923639196</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +123,7 @@
     <MESSAGE value="lec1  DoublylinkedList1" />
     <MESSAGE value="lec1 singllinkedList1" />
     <MESSAGE value="v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1" />
+    <MESSAGE value="v1 array" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1 array" />
   </component>
 </project>
